@@ -11,7 +11,14 @@ body{
 
 h1{
     text-align: center;
-    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: white;
-    font size: 
+}
+.p1{
+    color: white;
+
+}
+.p2{
+    background-color: gray;
+
 }
